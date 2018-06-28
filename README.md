@@ -12,3 +12,8 @@ https://github.com/tnvmadhav/myNotes/blob/master/bubbleSort.py
 Powerset of a given set:
    Example-->   powerset([1,2,3]) --->
                                    [],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]
+                                   
+               
+Convert Integer to Binary
+ --> customFunctionName(intValue)
+Example : print(getBin(12)) --> 1100 
